@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32003'
     url: http://www.gutenberg.org/2009/agents/32003
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26435#L-amant-rendu-cordelier-a-l-observance-d-amour
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2008-08-26'
 gutenberg_type: Text
